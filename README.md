@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devendrasingh9298
+- 👋 Hi, I’m Devendra Singh Chauhan
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
